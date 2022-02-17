@@ -1,4 +1,4 @@
-package ozcan.springframework.spring5jokesapp;
+package ozcan.springframework.spring5jokesapp.service;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;

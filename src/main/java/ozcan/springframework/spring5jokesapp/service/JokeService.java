@@ -1,4 +1,4 @@
-package ozcan.springframework.spring5jokesapp;
+package ozcan.springframework.spring5jokesapp.service;
 
 public interface JokeService {
 
